@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="116" viewBox="0 0 400 116" role="img" aria-label="ft_transcendence: Full-stack real-time web application">
+  <title>ft_transcendence</title>
+  <rect x="0.5" y="0.5" width="399" height="115" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="12" width="3" height="92" rx="1.5" fill="#d29922"/>
+  <text x="24" y="38" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="17" font-weight="600" fill="#e6edf3">ft_transcendence</text>
+  <g>
+    <rect x="269" y="22" width="111" height="20" rx="10" fill="none" stroke="#d29922" stroke-opacity="0.6"/>
+    <circle cx="280" cy="32" r="3" fill="#d29922"/>
+    <text x="288" y="35.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="0.6" fill="#d29922">IN PROGRESS</text>
+  </g>
+  <text x="24" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Full-stack real-time web application</text>
+  <rect x="24" y="80" width="39" height="20" rx="4" fill="#161b22" stroke="#30363d"/><text x="43" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Web</text><rect x="68.7" y="80" width="87" height="20" rx="4" fill="#161b22" stroke="#30363d"/><text x="112" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Full-stack</text><rect x="161.7" y="80" width="46" height="20" rx="4" fill="#161b22" stroke="#30363d"/><text x="184" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Team</text>
+</svg>
