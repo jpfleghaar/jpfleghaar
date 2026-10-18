@@ -22,8 +22,8 @@ I focus on systems programming, networking and infrastructure: writing low-level
 ### Completed
 
 <a href="https://github.com/jpfleghaar/libft"><img src="assets/projects/libft.svg" width="400" alt="libft"></a>
-<a href="https://github.com/jpfleghaar/printf"><img src="assets/projects/ft_printf.svg" width="400" alt="ft_printf"></a>
-<a href="https://github.com/jpfleghaar/Get-Next-Line"><img src="assets/projects/get_next_line.svg" width="400" alt="get_next_line"></a>
+<a href="https://github.com/jpfleghaar/libft/blob/main/ft_printf.c"><img src="assets/projects/ft_printf.svg" width="400" alt="ft_printf"></a>
+<a href="https://github.com/jpfleghaar/libft/blob/main/get_next_line.c"><img src="assets/projects/get_next_line.svg" width="400" alt="get_next_line"></a>
 <a href="https://github.com/jpfleghaar/push_swap"><img src="assets/projects/push_swap.svg" width="400" alt="push_swap"></a>
 <a href="https://github.com/jpfleghaar/minitalk"><img src="assets/projects/minitalk.svg" width="400" alt="minitalk"></a>
 <a href="https://github.com/jpfleghaar/fract-ol"><img src="assets/projects/fract-ol.svg" width="400" alt="fract-ol"></a>
