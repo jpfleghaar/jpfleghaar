@@ -1,4 +1,4 @@
-## Hello, I'm jpflegha
+## Hello, I'm Jens Pfleghaar
 
 Software engineering student at [42 Heilbronn](https://www.42heilbronn.de/en/).
 
